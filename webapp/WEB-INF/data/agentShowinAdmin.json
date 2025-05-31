@@ -1,0 +1,42 @@
+{
+  "currentUser": "IT24103866",
+  "currentDate": "2025-05-01 19:52:51",
+  "agents": [
+    {
+      "specialty": "Residential",
+      "featured": true,
+      "rating": 4.5,
+      "fullName": "John Doe",
+      "active": true,
+      "propertiesListed": 32,
+      "yearsExperience": 5,
+      "password": "password123",
+      "propertiesSold": 24,
+      "phone": "(123) 456-7890",
+      "registrationDate": "2025-05-02 14:31:50 (UTC)",
+      "licenseNumber": "REA-123456",
+      "id": "AG12345678",
+      "totalRevenue": 1250000,
+      "username": "john.doe@propertyagent.com",
+      "email": "johndoe"
+    },
+    {
+      "specialty": "Commercial",
+      "featured": true,
+      "rating": 4.8,
+      "fullName": "Jane Smith",
+      "active": true,
+      "propertiesListed": 22,
+      "yearsExperience": 7,
+      "password": "password456",
+      "propertiesSold": 18,
+      "phone": "(234) 567-8901",
+      "registrationDate": "2025-05-02 14:31:50 (UTC)",
+      "licenseNumber": "REA-234567",
+      "id": "AG23456789",
+      "totalRevenue": 2100000,
+      "username": "jane.smith@propertyagent.com",
+      "email": "janesmith"
+    }
+  ]
+}

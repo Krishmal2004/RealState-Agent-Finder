@@ -1,0 +1,69 @@
+{
+  "currentUser": "IT24103866",
+  "currentDate": "2025-05-02 19:27:57",
+  "users": [
+    {
+      "password": "admin123",
+      "role": "admin",
+      "phone": "(555) 123-4567",
+      "permissions": [
+        "users.view",
+        "users.add",
+        "users.edit",
+        "users.delete",
+        "agents.view",
+        "agents.add",
+        "agents.edit",
+        "agents.delete",
+        "properties.view",
+        "properties.add",
+        "properties.edit",
+        "properties.delete"
+      ],
+      "registrationDate": "2025-05-03 01:05:48 (UTC)",
+      "fullName": "System Administrator",
+      "active": true,
+      "id": "USR00000001",
+      "lastLoginDate": "",
+      "profileImage": "",
+      "email": "admin@propertyfinder.com",
+      "username": "admin"
+    },
+    {
+      "password": "manager123",
+      "role": "manager",
+      "phone": "(555) 234-5678",
+      "permissions": [
+        "users.view",
+        "agents.view",
+        "agents.add",
+        "agents.edit",
+        "properties.view",
+        "properties.add",
+        "properties.edit"
+      ],
+      "registrationDate": "2025-05-03 01:05:48 (UTC)",
+      "fullName": "Office Manager",
+      "active": true,
+      "id": "USR00000002",
+      "lastLoginDate": "",
+      "profileImage": "",
+      "email": "manager@propertyfinder.com",
+      "username": "manager"
+    },
+    {
+      "password": "user123",
+      "role": "user",
+      "phone": "(555) 345-6789",
+      "permissions": ["properties.view"],
+      "registrationDate": "2025-05-03 01:05:48 (UTC)",
+      "fullName": "Regular User",
+      "active": true,
+      "id": "USR00000003",
+      "lastLoginDate": "",
+      "profileImage": "",
+      "email": "user@propertyfinder.com",
+      "username": "user"
+    }
+  ]
+}

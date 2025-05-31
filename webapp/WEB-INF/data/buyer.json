@@ -1,0 +1,19 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@example.com",
+    "phone": "1234567890",
+    "password": "hashedpassword",
+    "userType": "agent",
+    "registrationDate": "2025-03-20 10:37:50"
+  },
+  {
+    "firstName": "krishmal",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-20 17:35:05",
+    "userType": "buyer",
+    "email": "krihsmak@gmail.com"
+  }
+]

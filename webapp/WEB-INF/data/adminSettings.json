@@ -1,0 +1,106 @@
+{
+  "lastUpdated": "2025-05-02 22:38:22",
+  "settings": [
+    {
+      "id": "max_photos",
+      "category": "property",
+      "value": "20"
+    },
+    {
+      "id": "inquiry_alert",
+      "category": "notification",
+      "value": "true"
+    },
+    {
+      "id": "contact_phone",
+      "category": "general",
+      "value": "+1 (555) 123-4567"
+    },
+    {
+      "id": "show_social_links",
+      "category": "appearance",
+      "value": "true"
+    },
+    {
+      "id": "logo_url",
+      "category": "appearance",
+      "value": "/assets/images/logo.png"
+    },
+    {
+      "id": "timezone",
+      "category": "general",
+      "value": "UTC"
+    },
+    {
+      "id": "new_property_alert",
+      "category": "notification",
+      "value": "true"
+    },
+    {
+      "id": "login_attempts",
+      "category": "security",
+      "value": "5"
+    },
+    {
+      "id": "featured_duration",
+      "category": "property",
+      "value": "30"
+    },
+    {
+      "id": "default_area_unit",
+      "category": "property",
+      "value": "sqft"
+    },
+    {
+      "id": "contact_email",
+      "category": "general",
+      "value": "contact@propertyfinder.com"
+    },
+    {
+      "id": "default_page_size",
+      "category": "appearance",
+      "value": "25"
+    },
+    {
+      "id": "user_registration_alert",
+      "category": "notification",
+      "value": "true"
+    },
+    {
+      "id": "company_name",
+      "category": "general",
+      "value": "PropertyFinder Real Estate"
+    },
+    {
+      "id": "password_expiry",
+      "category": "security",
+      "value": "90"
+    },
+    {
+      "id": "email_notifications",
+      "category": "notification",
+      "value": "true"
+    },
+    {
+      "id": "color_scheme",
+      "category": "appearance",
+      "value": "blue"
+    },
+    {
+      "id": "default_currency",
+      "category": "property",
+      "value": "USD"
+    },
+    {
+      "id": "two_factor_auth",
+      "category": "security",
+      "value": "false"
+    },
+    {
+      "id": "session_timeout",
+      "category": "security",
+      "value": "30"
+    }
+  ],
+  "updatedBy": "IT24103866"
+}

@@ -1,0 +1,266 @@
+{
+  "properties": [
+    {
+      "propertyId": "PROP1744062398848",
+      "agentId": null,
+      "title": "Grand Luxury Villa with Ocean View",
+      "type": null,
+      "price": 1250000.0,
+      "location": "78 Coastal Avenue, Colombo 03",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "squareFeet": 0.0,
+      "description": null,
+      "amenities": [
+        "Infinity Pool",
+        "Ocean View",
+        "Smart Home",
+        "Security"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227",
+        "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4",
+        "https://images.unsplash.com/photo-1613977257401-b1a01c3491a9"
+      ],
+      "status": "sale",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744062398868",
+      "agentId": null,
+      "title": "Modern City Center Apartment",
+      "type": null,
+      "price": 350000.0,
+      "location": "45 Urban Square, Colombo 02",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "squareFeet": 0.0,
+      "description": null,
+      "amenities": [
+        "City View",
+        "Gym",
+        "Parking"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+      ],
+      "status": "sale",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744062398868",
+      "agentId": null,
+      "title": "Luxury Beach House",
+      "type": null,
+      "price": 4500.0,
+      "location": "23 Beach Road, Mount Lavinia",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "squareFeet": 0.0,
+      "description": null,
+      "amenities": [
+        "Beach Front",
+        "Private Garden",
+        "BBQ Area"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2",
+        "https://images.unsplash.com/photo-1499916078039-922301b0eb9b"
+      ],
+      "status": "rent",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744062398868",
+      "agentId": null,
+      "title": "Luxury Penthouse Suite",
+      "type": null,
+      "price": 750000.0,
+      "location": "120 Sky Tower, Colombo 01",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "squareFeet": 0.0,
+      "description": null,
+      "amenities": [
+        "Panoramic View",
+        "Private Pool",
+        "Helipad Access",
+        "Premium Finishes"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00",
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c01"
+      ],
+      "status": "sale",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744062398869",
+      "agentId": null,
+      "title": "Spacious Family Home",
+      "type": null,
+      "price": 425000.0,
+      "location": "56 Green Lane, Nawala",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "squareFeet": 0.0,
+      "description": null,
+      "amenities": [
+        "Garden",
+        "Double Garage",
+        "Solar Powered"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2bf"
+      ],
+      "status": "sale",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1744062398869",
+      "agentId": null,
+      "title": "Modern Studio Apartment",
+      "type": null,
+      "price": 2000.0,
+      "location": "89 Metro Complex, Colombo 04",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "squareFeet": 0.0,
+      "description": null,
+      "amenities": [
+        "Furnished",
+        "City View",
+        "24/7 Security"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0268"
+      ],
+      "status": "rent",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1746370084374",
+      "agentId": "Krishmal2004",
+      "title": "Villa Vravrona Tower \u0026 Suites",
+      "type": "Villa",
+      "price": 60000.0,
+      "location": "0000 Patty Ln Lot 27, PRIMERA, TX 78552",
+      "bedrooms": 10,
+      "bathrooms": 5,
+      "squareFeet": 1000.0,
+      "description": "Indulge in the ultimate retreat at this stunning 10-bedroom, 5-bathroom luxury villa, spanning 1,000 square feet of meticulously designed living space. Perfect for large families or exclusive getaways, this villa offers unparalleled comfort and sophistication.",
+      "amenities": [
+        "Gym",
+        "Infinity Pool"
+      ],
+      "images": [
+        "property-images/PROP1746370084374/d85afa49-eb41-41c4-bf46-83c03e80a5b0.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1746376505738",
+      "agentId": "Krishmal2004",
+      "title": "Luxury Villa for sale in Jupiter, Florida",
+      "type": "Villa",
+      "price": 3.85E7,
+      "location": "Miami - Florida",
+      "bedrooms": 7,
+      "bathrooms": 8,
+      "squareFeet": 4099.0,
+      "description": "Welcome to 228 Bears Club, an extraordinary estate nestled within the prestigious Jack Nicklaus signature-designed golf course. This brand-new construction, set on an acre of land, boasts a luxurious infinity-edge pool that overlooks a sprawling lake with breathtaking golf course views. The property, just completed by ON Shore Construction and designed by Decorators Unlimited with architectural work by Randall Stofft, is a truly unique offering in The Bears Club. From the meticulously landscaped grounds to the more than 75 slabs of marble used throughout, no detail has been overlooked. Every finish has been carefully selected to achieve the highest level of craftsmanship.",
+      "amenities": [
+        "Patio",
+        "pool",
+        "Barbeque Area"
+      ],
+      "images": [
+        "property-images/PROP1746376505738/99d3560d-9610-425f-9384-6975141bfa7d.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1747715289887",
+      "agentId": "Krishmal2004",
+      "title": "fssssss",
+      "type": "Apartment",
+      "price": 1111.0,
+      "location": "1111",
+      "bedrooms": 11,
+      "bathrooms": 11,
+      "squareFeet": 11.0,
+      "description": "fffff",
+      "amenities": [],
+      "images": [
+        "property-images/PROP1747715289887/50606079-b918-490a-957b-6df514d2d5b3.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    },
+    {
+      "propertyId": "PROP1747715907349",
+      "agentId": "Krishmal2004",
+      "title": "eeeeee",
+      "type": "House",
+      "price": 1233444.0,
+      "location": "asdfff",
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "squareFeet": 123.0,
+      "description": "dfsaaaa",
+      "amenities": [],
+      "images": [
+        "property-images/PROP1747715907349/5478c374-39ed-4d85-82f8-130958e2a84e.jpg"
+      ],
+      "status": "Active",
+      "createdDate": "2025-04-07 13:20:36",
+      "createdBy": "Krishmal2004",
+      "updatedDate": "2025-04-07 13:20:36",
+      "updatedBy": "Krishmal2004",
+      "featured": false
+    }
+  ],
+  "lastUpdated": "2025-05-20 10:08:27",
+  "lastUpdatedBy": "Krishmal2004"
+}

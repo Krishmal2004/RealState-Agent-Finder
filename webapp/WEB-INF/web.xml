@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+    id="WebApp_ID" version="4.0">
+ 
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    
+    <!-- Admin Login Servlet -->
+    <servlet>
+        <servlet-name>AdminLoginServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.AdminLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminLoginServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Admin Dashboard Servlet -->
+    <servlet>
+        <servlet-name>AdminDashboardServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.AdminDashboardServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminDashboardServlet</servlet-name>
+        <url-pattern>/adminDashboard</url-pattern>
+    </servlet-mapping>
+    
+    
+    <!-- user Appointments Servlet -->
+    <servlet>
+        <servlet-name>UserAppointmentServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.UserAppointmentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserAppointmentServlet</servlet-name>
+        <url-pattern>/UserAppointmentServlet</url-pattern>
+    </servlet-mapping>
+    
+    <!-- user Setting Servlet -->
+    <servlet>
+        <servlet-name>UserSettingServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.UserSettingServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserSettingServlet</servlet-name>
+        <url-pattern>/UserSettingServlet</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Admin Dashboard Data Servlet -->
+    <servlet>
+        <servlet-name>AdminDashboardDataServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.AdminDashboardDataServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminDashboardDataServlet</servlet-name>
+        <url-pattern>/admin/dashboard-data</url-pattern>
+    </servlet-mapping>
+    <!-- User Login Servlet -->
+    <servlet>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.UserLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <url-pattern>/Login</url-pattern>
+    </servlet-mapping>
+    
+    <!--  Add Appointments  Servlet -->
+    <servlet>
+        <servlet-name>AppointmentServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.AppointmentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AppointmentServlet</servlet-name>
+        <url-pattern>/edit</url-pattern>
+    </servlet-mapping>
+    
+   
+    <!-- Add Property Servlet -->
+    <servlet>
+        <servlet-name>PropertyManagementServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.PropertyManagementServlett</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PropertyManagementServlet</servlet-name>
+        <url-pattern>/adding</url-pattern>
+    </servlet-mapping>
+    
+<!-- Agent Login Servlet -->
+    <servlet>
+        <servlet-name>AgentLoginServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.AgentLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AgentLoginServlet</servlet-name>
+        <url-pattern>/Agent-Login</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    
+    <!-- User Management Servlet -->
+    <servlet>
+        <servlet-name>UserManagementServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.UserManagementServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UserManagementServlet</servlet-name>
+        <url-pattern>/userManagement</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    <!-- Logout Servlet -->
+    <servlet>
+        <servlet-name>LogoutServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LogoutServlet</servlet-name>
+        <url-pattern>/logout</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Byuer Registration Servlet -->
+	<servlet>
+    	<servlet-name>BuyerRegServlet</servlet-name>
+    	<servlet-class>com.exam.servlets.BuyerRegServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>BuyerRegServlet</servlet-name>
+		<url-pattern>/register-byuer</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	    <!-- Agent Registration Servlet -->
+	<servlet>
+    	<servlet-name>AgentRegisterServlet</servlet-name>
+    	<servlet-class>com.exam.servlets.AgentRegisterServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AgentRegisterServlet</servlet-name>
+		<url-pattern>/register-agent</url-pattern>
+	</servlet-mapping>
+
+
+    
+    <!-- Add User Servlet -->
+    <servlet>
+        <servlet-name>AddUserServlet</servlet-name>
+        <servlet-class>com.RealState.servlets.AddUserServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddUserServlet</servlet-name>
+        <url-pattern>/addUser</url-pattern>
+    </servlet-mapping>
+    
+    
+    <!-- Session Configuration -->
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+    
+    <!-- Error Pages -->
+    <error-page>
+        <error-code>404</error-code>
+        <location>/error404.jsp</location>
+    </error-page>
+    
+    <error-page>
+        <error-code>500</error-code>
+        <location>/error500.jsp</location>
+    </error-page>
+</web-app>

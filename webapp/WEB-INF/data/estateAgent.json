@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "krishmal",
+    "password": "123456789",
+    "phone": "123456789",
+    "registrationDate": "2025-05-02 14:33:34",
+    "userType": "agent",
+    "username": "krishmalD@gmail.com"
+  },
+  {
+    "firstName": "krishmal",
+    "password": "123456",
+    "phone": "123456",
+    "registrationDate": "2025-05-02 14:43:22",
+    "userType": "agent",
+    "username": "krishmal@gmail.com"
+  },
+  {
+    "firstName": "Janith ",
+    "password": "123456",
+    "phone": "0703638365",
+    "registrationDate": "2025-05-04 19:00:48",
+    "userType": "agent",
+    "username": "Janith@gmail.com"
+  },
+  {
+    "firstName": "Thisula ",
+    "password": "789456",
+    "phone": "0789456",
+    "registrationDate": "2025-05-04 19:57:09",
+    "userType": "agent",
+    "username": "thisula@gmail.com"
+  },
+  {
+    "firstName": "ranidu",
+    "password": "123456",
+    "phone": "0773180481",
+    "registrationDate": "2025-05-20 10:05:19",
+    "userType": "agent",
+    "username": "ranidu@gmail.com"
+  },
+  {
+    "firstName": "krishma",
+    "password": "123456",
+    "phone": "123456789",
+    "registrationDate": "2025-05-20 12:35:35",
+    "userType": "agent",
+    "username": "krishma@gmail.com"
+  }
+]

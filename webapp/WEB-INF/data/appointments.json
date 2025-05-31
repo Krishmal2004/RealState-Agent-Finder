@@ -1,0 +1,50 @@
+{
+  "lastUpdated": "2025-04-07 18:05:17",
+  "updatedBy": "Krishmal2004",
+  "appointments": [
+    {
+      "id": 6,
+      "date": "2025-03-22",
+      "time": "11:00 AM",
+      "duration": 45,
+      "propertyName": "Mountain View Apartment",
+      "customerName": "janith Deshan",
+      "status": "scheduled",
+      "createdAt": "2025-03-22 10:30:00",
+      "lastModified": "2025-03-22 18:44:26"
+    },
+    {
+      "id": 3,
+      "date": "2025-03-28",
+      "time": "2:15 PM",
+      "duration": 90,
+      "propertyName": "City Center Office",
+      "customerName": "Michael Brown",
+      "status": "scheduled",
+      "createdAt": "2025-03-22 11:00:00",
+      "lastModified": "2025-03-22 11:00:00"
+    },
+    {
+      "id": 4,
+      "date": "2025-04-01",
+      "time": "10:00 AM",
+      "duration": 60,
+      "propertyName": "Lakeside Cottage",
+      "customerName": "Emma Wilson",
+      "status": "scheduled",
+      "createdAt": "2025-03-22 11:30:00",
+      "lastModified": "2025-03-22 11:30:00"
+    },
+    {
+      "id": 5,
+      "date": "2025-04-02",
+      "time": "3:30 PM",
+      "duration": 30,
+      "propertyName": "Downtown Penthouse",
+      "customerName": "Robert Davis",
+      "status": "scheduled",
+      "createdAt": "2025-03-22 12:00:00",
+      "lastModified": "2025-03-22 12:00:00"
+    }
+  ]
+}

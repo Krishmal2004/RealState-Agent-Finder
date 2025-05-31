@@ -1,0 +1,62 @@
+{
+  "currentUser": "IT24103866",
+  "currentDate": "2025-05-02 20:10:12",
+  "users": [
+    {
+      "lastLogin": "2025-05-01 15:45:20 (UTC)",
+      "emailVerified": true,
+      "password": "manager123",
+      "role": "manager",
+      "address": "",
+      "registrationDate": "2025-05-03 01:47:39 (UTC)",
+      "contactNumber": "",
+      "fullName": "Sales Manager",
+      "active": true,
+      "id": "USR00000002",
+      "email": "manager@propertyfinder.com",
+      "username": "manager"
+    },
+    {
+      "lastLogin": "2025-05-01 12:30:45 (UTC)",
+      "emailVerified": true,
+      "password": "password123",
+      "role": "user",
+      "address": "",
+      "registrationDate": "2025-05-03 01:47:39 (UTC)",
+      "contactNumber": "(123) 456-7890",
+      "fullName": "John Doe",
+      "active": true,
+      "id": "USR00000003",
+      "email": "john.doe@example.com",
+      "username": "johndoe"
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": false,
+      "password": "password456",
+      "role": "user",
+      "address": "",
+      "registrationDate": "2025-05-03 01:47:39 (UTC)",
+      "contactNumber": "(234) 567-8901",
+      "fullName": "Jane Smith",
+      "active": true,
+      "id": "USR00000004",
+      "email": "jane.smith@example.com",
+      "username": "janesmith"
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": true,
+      "password": "lllll",
+      "role": "admin",
+      "address": "ttyjkk",
+      "registrationDate": "2025-05-19 14:58:50 (UTC)",
+      "contactNumber": "1234678",
+      "fullName": "iiiiiii",
+      "active": true,
+      "id": "USR38785107",
+      "email": "yyy@gmail.com",
+      "username": "llll"
+    }
+  ]
+}
